@@ -1,0 +1,8 @@
+Код: https://app.aimylogic.com/scenario/veslye_danetki-1000028106-Fvv?hash=1654107285718
+
+Почта: romantkacenko82@gmail.com
+Пароль: Swsbrfdfg10@
+
+БД: https://docs.google.com/spreadsheets/d/1HYV-zQj8x470SLKl7XyMzE2glKtqs8-qR_sVMu_MlCc/edit?usp=sharing
+
+Для запуска навыка, нужно Алисе сказать: "Запусти навык Данетки"
